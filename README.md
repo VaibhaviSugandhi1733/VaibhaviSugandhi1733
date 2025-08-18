@@ -1,11 +1,10 @@
-<!-- Typing Animation -->
+<!-- Typing Animation Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Vaibhavi+Sugandhi;Aspiring+DevOps+Engineer+🚀;Cloud+%7C+Automation+%7C+CI%2FCD+Enthusiast;Let's+Automate+Everything+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Vaibhavi+Sugandhi;Aspiring+DevOps+Engineer+🚀;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+with+Jenkins+%26+GitHub+Actions;Monitoring+with+Prometheus+%26+Grafana;Always+Learning+%7C+Always+Deploying+⚡" alt="Typing SVG" />
 </h1>
 
 ---
 
-<!-- Centered DevOps Gif -->
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
 </p>
@@ -14,20 +13,73 @@
 
 ## 🙋‍♀️ About Me  
 
-- 🌱 Exploring **AWS | Kubernetes | Terraform | Ansible**  
-- 💡 Passionate about **Automation, Cloud, and DevOps Practices**  
-- 🛠️ Building projects with **CI/CD pipelines, Docker & K8s**  
-- 🤝 Looking to collaborate on **DevOps & Open Source Projects**  
-- 📫 Reach me: **vaibhavi.sugandhi03@gmail.com**  
-- ⚡ Motto: *“Automate Everything, Scale Seamlessly, Deliver Continuously.”*  
+On a mission to launch my career as a **DevOps Engineer** —  
+- 🐳 Containerizing innovation with **Docker**  
+- ☸️ Orchestrating success with **Kubernetes**  
+- 🏗️ Provisioning opportunities with **Terraform**  
+- 🚀 Delivering seamless **CI/CD pipelines with Jenkins & GitHub Actions**  
+- 📊 Monitoring growth with **Prometheus & Grafana**  
+
+⚡ Ready to **scale skills like a Kubernetes cluster**, maintain uptime in my learning curve, and roll out continuous improvements with **zero downtime**.  
 
 ---
 
-## 🛠️ Tech Toolbox  
+## 🛠️ Skills  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,terraform,jenkins,githubactions,git,github,prometheus,grafana,linux&theme=dark" />
-</p>
+**Cloud Platforms**: AWS  
+**Containerization**: Docker  
+**Orchestration**: Kubernetes  
+**CI/CD & Automation**: Jenkins, ArgoCD  
+**Configuration Management**: Ansible  
+**Infrastructure as Code (IaC)**: Terraform  
+**Monitoring & Logging**: Prometheus, Grafana  
+**Scripting & Programming**: Python, Bash, YAML, Go  
+**Version Control & Collaboration**: Git, GitHub  
+**OS**: Linux  
+
+---
+
+## 💼 Experience  
+
+**DevOps Intern – Linuxworld Pvt Ltd (Jan 2025 – Present)**  
+- Designed and deployed **CI/CD pipelines in Jenkins** integrating Git, Docker, and Kubernetes.  
+- Provisioned **multi-environment cloud infrastructure on AWS** with Terraform.  
+- Automated server & container config with **Ansible**, reducing deployment errors.  
+- Configured **Prometheus & Grafana dashboards** for proactive monitoring.  
+- Containerized apps using **Docker** and deployed to **Kubernetes clusters**.  
+
+---
+
+## 🚀 Projects  
+
+🔹 **Multi-Environment AWS Infrastructure using Terraform**  
+📂 [GitHub Repo](https://github.com/VaibhaviSugandhi1733/Multi_Environment_Terraform.git)  
+- Built reusable **Terraform modules** for multi-env infra (Dev, Staging, Prod).  
+- Automated **EC2, S3, DynamoDB, Security Groups** with environment configs.  
+- Reduced deployment time from **hours → minutes** using IaC.  
+**Tech Stack**: Terraform, AWS, Git, AWS CLI  
+
+🔹 **Wanderlust – DevSecOps Automated CI/CD Pipeline**  
+📂 [GitHub Repo](https://github.com/VaibhaviSugandhi1733/wanderlust_devops.git)  
+- Built **end-to-end CI/CD pipeline in Jenkins** with DevSecOps integration.  
+- Automated build, test, vulnerability scanning & deployment.  
+- Integrated **SonarQube, OWASP Dependency-Check, Trivy**.  
+**Tech Stack**: Jenkins, Docker, Docker Compose, SonarQube, Trivy, GitHub  
+
+---
+
+## 🎓 Education  
+
+- **B.Tech in Computer Science Engineering** – Sharnbasva University, Kalaburagi (2021 – 2025)  
+- **12th (PCMB)** – Shree Guru Independent PU College, Kalaburagi (2019 – 2021)  
+- **SSLC** – Vikas English Medium School, Kalaburagi (2018 – 2019)  
+
+---
+
+## 📜 Certifications  
+
+- 🏆 **AWS Academy Graduate – AWS Academy Cloud Foundations (Jan 2025)**  
+  [Credly Badge](https://www.credly.com/go/vrNycHa0)  
 
 ---
 
@@ -48,20 +100,4 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaibhavisugandhi">
-    <img src="https://img.shields.io/badge/-Vaibhavi%20Sugandhi-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/VaibhaviSugandhi1733">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:vaibhavi.sugandhi03@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<!-- Footer with animated snake -->
-<p align="center">
-  <img src="https://github.com/VaibhaviSugandhi1733/VaibhaviSugandhi1733/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
+    <img src="https:
