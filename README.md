@@ -41,13 +41,13 @@ On a mission to launch my career as a **DevOps Engineer** —
 
 ## 💼 Experience  
 
-**DevOps Intern – Linuxworld Pvt Ltd (Jan 2025 – Present)**  
-- Designed and deployed **CI/CD pipelines in Jenkins** integrating Git, Docker, and Kubernetes.  
-- Provisioned **multi-environment cloud infrastructure on AWS** with Terraform.  
-- Automated server & container config with **Ansible**, reducing deployment errors.  
-- Configured **Prometheus & Grafana dashboards** for proactive monitoring.  
-- Containerized apps using **Docker** and deployed to **Kubernetes clusters**.  
-
+**AI/ML Engineer – Happy Minds Software Solutions Pvt. Ltd.**  
+- Developed an AI-driven Intelligent Document Processing (IDP) system using Python, AWS SageMaker, Textract, and Comprehend for automated document classification and information extraction.  
+- Built a Generative AI chatbot using LLMs, LangChain, RAG architecture, and ChromaDB to enable intelligent document search and contextual question answering. 
+- Implemented vector database retrieval pipelines for efficient semantic search and knowledge retrieval from large document datasets.
+- Designed Agentic AI workflows enabling autonomous reasoning and dynamic response generation using advanced prompt engineering.
+- Integrated AWS services (S3, DynamoDB, SageMaker) to build scalable and secure AI pipelines.
+- Developed Streamlit-based UI applications to provide interactive access to AI models and document insights.
 ---
 
 ## 🚀 Projects  
