@@ -1,103 +1,185 @@
-<!-- Typing Animation Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Vaibhavi+Sugandhi;Aspiring+DevOps+Engineer+🚀;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+with+Jenkins+%26+GitHub+Actions;Monitoring+with+Prometheus+%26+Grafana;Always+Learning+%7C+Always+Deploying+⚡" alt="Typing SVG" />
-</h1>
+# 👩‍💻 Vaibhavi Sugandhi
+
+🚀 DevOps | AI/ML | Generative AI Engineer  
+
+📍 Kalaburagi, India  
+📧 vaibhavi.sugandhi03@gmail.com  
 
 ---
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
-</p>
+## 🌟 About Me
+
+I am a **DevOps and AI/ML Engineer** with hands-on experience in building **scalable cloud infrastructure and intelligent AI-driven applications**.  
+
+I specialize in combining **Machine Learning, Generative AI, and DevOps practices** to create automated and scalable solutions.
+
+My expertise includes **AWS cloud services, MLOps pipelines, containerization, Kubernetes orchestration, and Generative AI applications using LLMs and RAG architecture.**
 
 ---
 
-## 🙋‍♀️ About Me  
+# 🧠 Technical Skills
 
-On a mission to launch my career as a **DevOps Engineer** —  
-- 🐳 Containerizing innovation with **Docker**  
-- ☸️ Orchestrating success with **Kubernetes**  
-- 🏗️ Provisioning opportunities with **Terraform**  
-- 🚀 Delivering seamless **CI/CD pipelines with Jenkins & GitHub Actions**  
-- 📊 Monitoring growth with **Prometheus & Grafana**  
+## AI / Machine Learning
+- Machine Learning Algorithms (Regression, Classification, Clustering)
+- Generative AI
+- LLM Applications
+- Agentic AI
+- Retrieval Augmented Generation (RAG)
+- NLP & Intelligent Document Processing
 
-⚡ Ready to **scale skills like a Kubernetes cluster**, maintain uptime in my learning curve, and roll out continuous improvements with **zero downtime**.  
+## Libraries & Frameworks
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow
+- XGBoost
+- LangChain
+- Streamlit
 
----
+## Cloud Platforms
+- AWS (EC2, S3, RDS, VPC, IAM)
+- AWS SageMaker
+- AWS Textract
+- AWS Comprehend
+- AWS Bedrock
 
-## 🛠️ Skills  
+## DevOps & MLOps
+- Jenkins
+- GitHub Actions
+- GitLab CI/CD
+- Terraform
+- Ansible
 
-**Cloud Platforms**: AWS  
-**Containerization**: Docker  
-**Orchestration**: Kubernetes  
-**CI/CD & Automation**: Jenkins, ArgoCD  
-**Configuration Management**: Ansible  
-**Infrastructure as Code (IaC)**: Terraform  
-**Monitoring & Logging**: Prometheus, Grafana  
-**Scripting & Programming**: Python, Bash, YAML, Go  
-**Version Control & Collaboration**: Git, GitHub  
-**OS**: Linux  
+## Containers & Orchestration
+- Docker
+- Kubernetes
+- AWS EKS
+- Helm
 
----
+## Databases
+- DynamoDB
+- SQL / NoSQL
+- Vector Databases (ChromaDB)
 
-## 💼 Experience  
-
-**AI/ML Engineer – Happy Minds Software Solutions Pvt. Ltd.**  
-- Developed an AI-driven Intelligent Document Processing (IDP) system using Python, AWS SageMaker, Textract, and Comprehend for automated document classification and information extraction.  
-- Built a Generative AI chatbot using LLMs, LangChain, RAG architecture, and ChromaDB to enable intelligent document search and contextual question answering. 
-- Implemented vector database retrieval pipelines for efficient semantic search and knowledge retrieval from large document datasets.
-- Designed Agentic AI workflows enabling autonomous reasoning and dynamic response generation using advanced prompt engineering.
-- Integrated AWS services (S3, DynamoDB, SageMaker) to build scalable and secure AI pipelines.
-- Developed Streamlit-based UI applications to provide interactive access to AI models and document insights.
----
-
-## 🚀 Projects  
-
-🔹 **Multi-Environment AWS Infrastructure using Terraform**  
-📂 [GitHub Repo](https://github.com/VaibhaviSugandhi1733/Multi_Environment_Terraform.git)  
-- Built reusable **Terraform modules** for multi-env infra (Dev, Staging, Prod).  
-- Automated **EC2, S3, DynamoDB, Security Groups** with environment configs.  
-- Reduced deployment time from **hours → minutes** using IaC.  
-**Tech Stack**: Terraform, AWS, Git, AWS CLI  
-
-🔹 **Wanderlust – DevSecOps Automated CI/CD Pipeline**  
-📂 [GitHub Repo](https://github.com/VaibhaviSugandhi1733/wanderlust_devops.git)  
-- Built **end-to-end CI/CD pipeline in Jenkins** with DevSecOps integration.  
-- Automated build, test, vulnerability scanning & deployment.  
-- Integrated **SonarQube, OWASP Dependency-Check, Trivy**.  
-**Tech Stack**: Jenkins, Docker, Docker Compose, SonarQube, Trivy, GitHub  
+## Monitoring
+- Prometheus
+- Grafana
+- AWS CloudWatch
 
 ---
 
-## 🎓 Education  
+# 💼 Professional Experience
 
-- **B.Tech in Computer Science Engineering** – Sharnbasva University, Kalaburagi (2021 – 2025)  
-- **12th (PCMB)** – Shree Guru Independent PU College, Kalaburagi (2019 – 2021)  
-- **SSLC** – Vikas English Medium School, Kalaburagi (2018 – 2019)  
+## AI/ML Engineer
+**Company:** Happy Minds Software Solutions Pvt Ltd  
+📅 June 2025 – Present  
 
----
+### Project: Intelligent Document Processing (GenAI-IDP)
 
-## 📜 Certifications  
+Built an **AI-powered document processing system** using AWS and Generative AI technologies to automate document classification, extraction, and question answering.
 
-- 🏆 **AWS Academy Graduate – AWS Academy Cloud Foundations (Jan 2025)**  
-  [Credly Badge](https://www.credly.com/go/vrNycHa0)  
+### Responsibilities
+- Developed **AI pipelines for document classification and data extraction** using AWS Textract and Comprehend.
+- Built **Machine Learning models on AWS SageMaker**.
+- Designed **RAG-based chatbot systems using LangChain and LLMs**.
+- Implemented **Vector Search using ChromaDB**.
+- Built **AI chatbot interfaces using Streamlit**.
+- Integrated **Agentic AI workflows** for automated reasoning and responses.
+- Created **scalable AI pipelines using AWS and Python**.
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VaibhaviSugandhi1733&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhaviSugandhi1733&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhaviSugandhi1733&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
+### Technologies
+Python | AWS SageMaker | Textract | Comprehend | LangChain | Streamlit | ChromaDB | LLMs
 
 ---
 
-## 🌐 Connect With Me  
+## DevOps Engineer
+**Company:** Happy Minds Software Solutions Pvt Ltd  
+📅 March 2025 – May 2025  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vaibhavisugandhi">
-    <img src="https:
+### Project: Procure-to-Pay & Supply Chain Management Deployment
+
+Implemented DevOps automation to deploy enterprise applications on AWS using containerization and CI/CD pipelines.
+
+### Responsibilities
+- Built **Infrastructure as Code using Terraform**.
+- Developed **CI/CD pipelines using Jenkins and Maven**.
+- Containerized applications using **Docker**.
+- Deployed microservices on **Kubernetes clusters using AWS EKS**.
+- Managed **secrets using HashiCorp Vault**.
+- Built **Helm charts for Kubernetes deployments**.
+- Implemented monitoring using **CloudWatch, Prometheus, and Grafana**.
+
+### Technologies
+AWS | Terraform | Jenkins | Docker | Kubernetes | Helm | Ansible | CloudWatch | Grafana
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 Intelligent Document Processing using Generative AI
+AI system that extracts, analyzes, and answers questions from documents using LLMs and RAG pipelines.
+
+**Tech Stack**
+- Python
+- AWS Textract
+- AWS Comprehend
+- AWS SageMaker
+- LangChain
+- ChromaDB
+- Streamlit
+
+---
+
+## ⚙️ End-to-End DevOps CI/CD Pipeline
+
+Automated CI/CD pipeline integrating Jenkins, Docker, Kubernetes, and Terraform to deploy microservices to AWS.
+
+**Tech Stack**
+- Jenkins
+- Docker
+- Kubernetes
+- Terraform
+- AWS
+
+---
+
+## 🤖 RAG-based AI Chatbot
+
+Built a chatbot that uses **LLM + Vector Database** to answer questions from documents.
+
+**Tech Stack**
+- Python
+- LangChain
+- ChromaDB
+- Streamlit
+- OpenAI / LLM APIs
+
+---
+
+# 📚 Currently Learning
+
+- Advanced **Agentic AI Systems**
+- **LLM Application Architecture**
+- **Production MLOps pipelines**
+- **Kubernetes for ML workloads**
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaibhaviSugandhi1733&show_icons=true)
+
+---
+
+# 🤝 Connect With Me
+
+📧 Email: vaibhavi.sugandhi03@gmail.com  
+
+💼 LinkedIn: https://linkedin.com/in/vaibhavisugandhi  
+
+💻 GitHub: https://github.com/VaibhaviSugandhi1733
+
+---
+
+⭐ Always exploring ways to combine **AI, Cloud, and DevOps** to build intelligent scalable systems.
