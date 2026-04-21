@@ -2,11 +2,16 @@
 
 # Hey there, I'm Vaibhavi Sugandhi 👋
 
-### DevOps Engineer · Cloud Infrastructure · CI/CD · Containerization
+<a href="https://github.com/readme.so">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Infrastructure+%7C+AWS;CI%2FCD+Pipeline+Builder;Containerization+%7C+Docker+%7C+Kubernetes;Infrastructure+as+Code+%7C+Terraform" alt="Typing SVG" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavisugandhi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)]([https://portfolio](https://vaibhavisugandhi.netlify.app))
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavi.sugandhi03@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VaibhaviSugandhi1733)
 
 </div>
 
@@ -16,7 +21,7 @@
 
 Results-driven **DevOps Engineer** passionate about building scalable cloud infrastructure and automating everything. I specialize in bridging the gap between development and operations — from spinning up multi-environment AWS setups with Terraform to securing CI/CD pipelines with DevSecOps practices.
 
-- 🔭 Currently interning at **Linuxworld Pvt Ltd**, building real-world cloud & DevOps solutions
+- 🔭 Completed a DevOps internship at **Linuxworld Pvt Ltd**, building real-world cloud & DevOps solutions
 - 🌱 Exploring **Kubernetes**, **ArgoCD**, and **GitOps** workflows
 - 💡 Believer in "automate first, repeat never"
 - 📍 Based in Kalaburagi, Karnataka, India
@@ -83,7 +88,7 @@ Results-driven **DevOps Engineer** passionate about building scalable cloud infr
 
 ## 📜 Certifications
 
-- 🏅 **AWS Academy Cloud Foundations** — [View on Credly](https://credly.com)
+- 🏅 **AWS Academy Cloud Foundations** — [View on Credly]([https://credly.com](https://www.credly.com/go/vrNycHa0))
 
 ---
 
@@ -92,7 +97,7 @@ Results-driven **DevOps Engineer** passionate about building scalable cloud infr
 <div align="center">
 
 ![Vaibhavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaibhaviSugandhi1733&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhaviSugandhi1733&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhaviSugandhi1733E&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
